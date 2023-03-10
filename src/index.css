@@ -1,0 +1,32 @@
+input[type="submit"]{
+    background-color: yellowgreen;
+    padding: 0px 20px 0px 20px;
+    border-radius: 3px;
+}
+button{
+    background-color: red;
+    color: white;
+    border-radius: 3px;
+    padding: 2px;
+}
+/* div{
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 10px;
+    grid-row-gap: 20px;
+    box-shadow: 10px 5px chocolate;
+    
+}
+img{
+    width:250px;
+    text-align: center;
+    margin-left: 50px;
+}
+#h{
+    width:250px;
+    text-align: center;
+    margin-left: 40px;
+}
+b{
+    text-align: center;
+} */

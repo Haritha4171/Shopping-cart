@@ -1,0 +1,15 @@
+th,td{
+    border: 1px solid black;
+    width: 320px;
+    text-align: center;
+    padding: 20px;
+    color: aliceblue;
+} 
+#helo{
+    background-color: rgb(236, 18, 18);
+    position: absolute;
+    top: 100px;
+}
+#gril{
+    text-align: center;
+}

@@ -1,0 +1,36 @@
+#up{
+    background-color: blue;
+    padding: 10px;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+    
+}
+#down{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+}
+#left{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 10px;
+}
+#right{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+#center{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+#star{
+    color: goldenrod;
+}
+.app{
+   text-align: center;
+   border: 1px solid lightcyan;
+   box-shadow: 1px 1px 4px 4px lightcyan;
+}
+button{
+    background-color: green;
+    border-radius: 10px;
+}

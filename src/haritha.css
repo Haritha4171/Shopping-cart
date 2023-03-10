@@ -1,0 +1,22 @@
+h1{
+    color: red;
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#pic{
+    border: 1px solid black;
+    height: 310px;
+    width: 200px;
+    text-align: center;
+}
+img{
+    width: 200px;
+}
+#helo{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-column-gap: 200px;
+    grid-row-gap: 30px;
+    text-align: center;
+}

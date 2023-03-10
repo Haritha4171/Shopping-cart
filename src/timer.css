@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    margin-top: 200px;
+    background-color: bisque;
+}
+span{
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 10px;
+}
+button{
+    border: none;
+    margin-top: 140px;
+    padding: 10px 30px;
+    border-radius: 10px;
+    background-color: rgb(47, 192, 47);
+    color: aqua;
+}
+.haritha{
+    background-color: aqua;
+    height: 200px;
+    width: 350px;
+    margin-left: 38%;
+    border-radius: 10px;
+}
+.helo{
+    position: absolute;
+    top: 220px;
+    text-align: center;
+    margin-left: 5%;
+}
