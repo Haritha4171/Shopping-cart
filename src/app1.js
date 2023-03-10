@@ -5,7 +5,7 @@ import Cart from './components/Cart';
 import './styles/amazon.css';
 import "./app1.css"
 import { BiListUl,BiPlus,BiCart } from "react-icons/bi";
-import list from './data';
+// import list from './data';
 //import { BsFillStarFill } from "react-icons/bs";
 
 const App1 = () => {
